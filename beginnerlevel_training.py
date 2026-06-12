@@ -17,10 +17,10 @@ print(type(name))
 print(type(StudentId))
 
 # list
-frientlist =['abdul','noufal']
-print(frientlist[0])
-frientlist.append('irfan')
-print(frientlist)
+friendlist =['abdul','noufal']
+print(friendlist[0])
+friendlist.append('irfan')
+print(friendlist)
 
 # tuble
 days = ('sunday','monday','tuesday')
